@@ -1,2 +1,3 @@
-# MahaTourism
-**MahaTourism** is a smart tourism management system that provides information on tourist destinations, hotels, transportation, and navigation services. It features AI-based itinerary generation for personalized trip planning and ML-based crowd prediction to help tourists make informed travel decisions and enhance their overall experience.
+**MahaTourism** is a smart tourism management system designed to enhance the travel experience by providing comprehensive information about tourist destinations, hotels, transportation facilities, and navigation services across Maharashtra. 
+The platform leverages Artificial Intelligence to generate personalized travel itineraries based on user preferences, budget, and trip duration, while a Machine Learning-powered crowd prediction module helps tourists identify the best time to visit popular attractions by forecasting visitor density. 
+Built using Java Full Stack technologies, the system aims to simplify trip planning, improve travel convenience, and promote efficient tourism management through an intelligent, user-friendly, and scalable digital platform.
