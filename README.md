@@ -1,3 +1,19 @@
-**MahaTourism** is a smart tourism management system designed to enhance the travel experience by providing comprehensive information about tourist destinations, hotels, transportation facilities, and navigation services across Maharashtra. 
-The platform leverages Artificial Intelligence to generate personalized travel itineraries based on user preferences, budget, and trip duration, while a Machine Learning-powered crowd prediction module helps tourists identify the best time to visit popular attractions by forecasting visitor density. 
-Built using Java Full Stack technologies, the system aims to simplify trip planning, improve travel convenience, and promote efficient tourism management through an intelligent, user-friendly, and scalable digital platform.
+# @babel/code-frame
+
+> Generate errors that contain a code frame that point to source locations.
+
+See our website [@babel/code-frame](https://babeljs.io/docs/babel-code-frame) for more information.
+
+## Install
+
+Using npm:
+
+```sh
+npm install --save-dev @babel/code-frame
+```
+
+or using yarn:
+
+```sh
+yarn add @babel/code-frame --dev
+```

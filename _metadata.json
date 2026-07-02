@@ -1,0 +1,86 @@
+{
+  "hash": "9cd98d39",
+  "configHash": "75930222",
+  "lockfileHash": "6cd7a0ea",
+  "browserHash": "f648102d",
+  "optimized": {
+    "axios": {
+      "src": "../../axios/index.js",
+      "file": "axios.js",
+      "fileHash": "774c6178",
+      "needsInterop": false
+    },
+    "leaflet": {
+      "src": "../../leaflet/dist/leaflet-src.js",
+      "file": "leaflet.js",
+      "fileHash": "e4c17ff3",
+      "needsInterop": true
+    },
+    "lucide-react": {
+      "src": "../../lucide-react/dist/esm/lucide-react.mjs",
+      "file": "lucide-react.js",
+      "fileHash": "ede9f6c4",
+      "needsInterop": false
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "16289765",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "10507de2",
+      "needsInterop": true
+    },
+    "react-hot-toast": {
+      "src": "../../react-hot-toast/dist/index.mjs",
+      "file": "react-hot-toast.js",
+      "fileHash": "d100d538",
+      "needsInterop": false
+    },
+    "react-leaflet": {
+      "src": "../../react-leaflet/lib/index.js",
+      "file": "react-leaflet.js",
+      "fileHash": "c281f19c",
+      "needsInterop": false
+    },
+    "react-markdown": {
+      "src": "../../react-markdown/index.js",
+      "file": "react-markdown.js",
+      "fileHash": "ff7d0092",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "34a45ede",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "628f0f43",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "8ff72205",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "8865c3f4",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-CYJPkc-J": {
+      "file": "chunk-CYJPkc-J.js",
+      "isDynamicEntry": false
+    }
+  }
+}
